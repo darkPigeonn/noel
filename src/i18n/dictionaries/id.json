@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "title": "Noel — Pengembang Full-Stack Web & Mobile",
+    "description": "Saya membangun sistem web & mobile yang scalable untuk menyederhanakan operasional dan mengembangkan organisasi. Spesialisasi di ERP, CMS, Sistem Keuangan, dan Aplikasi Web Custom.",
+    "projectsTitle": "Proyek",
+    "projectsDescription": "Jelajahi studi kasus nyata dari sistem web dan mobile yang telah saya bangun — dari platform penerimaan siswa hingga sistem keuangan dan solusi CMS custom.",
+    "servicesTitle": "Layanan",
+    "servicesDescription": "Aplikasi web custom, sistem ERP, platform CMS, sistem keuangan, HR & payroll, aplikasi mobile, dan solusi otomasi.",
+    "contactTitle": "Kontak",
+    "contactDescription": "Hubungi saya untuk mendiskusikan proyek Anda. Tersedia untuk kerja remote, proyek freelance, dan kemitraan pengembangan jangka panjang."
+  },
+  "nav": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "projects": "Proyek",
+    "contact": "Kontak",
+    "workWithMe": "Hubungi Saya"
+  },
+  "hero": {
+    "badge": "Tersedia untuk kerja remote & proyek",
+    "headline": "Saya membangun sistem scalable yang",
+    "headlineHighlight": "menyederhanakan operasional",
+    "headlineEnd": "dan mengembangkan organisasi.",
+    "subheadline": "Pengembang Full-Stack Web & Mobile dengan pengalaman 5+ tahun mengubah kebutuhan bisnis yang kompleks menjadi solusi digital yang bersih dan mudah dipelihara.",
+    "ctaPrimary": "Hubungi Saya",
+    "ctaSecondary": "Lihat Proyek",
+    "specializations": ["Sistem ERP", "CMS & Page Builder", "Keuangan & Akuntansi", "Absensi & HR", "Otomasi & Bot"]
+  },
+  "about": {
+    "label": "Tentang Saya",
+    "title": "Mengubah Kompleksitas Bisnis Menjadi Sistem yang Rapi",
+    "paragraphs": [
+      "Selama 5+ tahun terakhir, saya telah membantu berbagai organisasi — dari sekolah dan yayasan hingga departemen keuangan dan bisnis yang berkembang — mengganti proses manual dengan sistem digital yang andal.",
+      "Pekerjaan saya mencakup bidang pendidikan, keuangan, HR, dan operasional internal. Saya telah membangun sistem penerimaan siswa, platform keuangan pesantren, solusi ERP multi-sekolah, platform CMS custom, dan bot notifikasi otomatis.",
+      "Yang membedakan saya bukan hanya kemampuan teknis — tapi kemampuan untuk duduk bersama stakeholder, memahami pain point mereka, dan menerjemahkan logika bisnis yang rumit menjadi software yang terstruktur dan mudah dipelihara. Saya tidak hanya membuat fitur; saya menyelesaikan masalah operasional."
+    ],
+    "traits": [
+      {
+        "title": "Berpikir Bisnis Dulu",
+        "description": "Saya tidak hanya menulis kode — saya memahami masalahnya. Setiap fitur dirancang berdasarkan alur kerja yang sebenarnya, bukan asumsi."
+      },
+      {
+        "title": "Terstruktur & Scalable",
+        "description": "Arsitektur bersih, dokumentasi yang tepat, dan kode yang mudah dipelihara. Dibangun untuk bertahan lama dan mudah dikerjakan oleh tim."
+      },
+      {
+        "title": "Berpikir Jangka Panjang",
+        "description": "Saya membangun sistem yang dirancang untuk berkembang. Desain modular, data model yang jelas, dan keputusan teknis yang matang untuk pertumbuhan masa depan."
+      },
+      {
+        "title": "Andal & Komunikatif",
+        "description": "Update yang konsisten, timeline yang transparan, dan jujur soal kendala. Tidak ada kejutan, hanya progres yang stabil."
+      }
+    ]
+  },
+  "services": {
+    "label": "Layanan",
+    "title": "Solusi, Bukan Sekadar Kode",
+    "description": "Setiap layanan dimulai dengan memahami masalah Anda. Saya memberikan sistem yang bekerja dan menyelesaikan tantangan operasional nyata.",
+    "items": [
+      {
+        "id": "web-apps",
+        "title": "Aplikasi Web Custom",
+        "problem": "Bisnis Anda bergantung pada tools generik yang tidak sesuai dengan alur kerja, memperlambat operasional dan menciptakan silo data.",
+        "solution": "Saya membangun aplikasi web yang dirancang khusus sesuai proses spesifik Anda — dari dashboard hingga platform multi-role yang kompleks.",
+        "benefit": "Sistem yang pas untuk tim Anda, mengurangi pekerjaan manual, dan berkembang seiring pertumbuhan bisnis.",
+        "technologies": ["Next.js", "Nuxt", "Vue", "React", "Node.js"]
+      },
+      {
+        "id": "erp-systems",
+        "title": "Sistem ERP & Internal",
+        "problem": "Mengelola operasional lintas departemen dengan spreadsheet dan tools terpisah menghasilkan error, keterlambatan, dan nol visibilitas.",
+        "solution": "Saya mengembangkan sistem ERP terintegrasi yang menghubungkan departemen — dari inventori hingga pengadaan, pelaporan hingga manajemen pengguna.",
+        "benefit": "Satu sistem terpadu yang memberikan visibilitas real-time kepada manajemen dan alur kerja yang efisien untuk tim.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"]
+      },
+      {
+        "id": "cms-builder",
+        "title": "CMS dengan Page Builder",
+        "problem": "Tim marketing Anda tidak bisa update website tanpa mengganggu developer, menyebabkan bottleneck dan konten yang usang.",
+        "solution": "Saya membangun platform CMS custom dengan page builder drag-and-drop, memberikan tim Anda kontrol penuh atas konten dan layout.",
+        "benefit": "Kemandirian marketing. Update halaman, buat landing page, dan kelola konten — tanpa kode.",
+        "technologies": ["Next.js", "Vue", "Firebase", "REST API"]
+      },
+      {
+        "id": "finance-systems",
+        "title": "Sistem Keuangan & Akuntansi",
+        "problem": "Pelaporan keuangan dilakukan manual, rawan error, dan butuh berhari-hari. Rekonsiliasi antar sistem sangat menyulitkan.",
+        "solution": "Saya membangun sistem keuangan dengan perhitungan otomatis, pelaporan multi-periode, jurnal, dan audit trail.",
+        "benefit": "Laporan keuangan akurat kapan saja. Lebih sedikit pekerjaan manual, lebih sedikit error, dan laporan siap saat dibutuhkan.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"]
+      },
+      {
+        "id": "hr-attendance",
+        "title": "Sistem Absensi, HR & Payroll",
+        "problem": "Melacak absensi, mengelola cuti, dan menghitung payroll secara manual sangat memakan waktu dan rawan error.",
+        "solution": "Saya mengembangkan sistem HR dengan pelacakan absensi, manajemen cuti, perhitungan payroll, dan portal self-service karyawan.",
+        "benefit": "Proses HR otomatis yang menghemat berjam-jam kerja admin setiap periode gajian dan menjaga karyawan tetap terinformasi.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Firebase"]
+      },
+      {
+        "id": "mobile-apps",
+        "title": "Aplikasi Mobile",
+        "problem": "Pengguna Anda butuh akses mobile, tapi membangun aplikasi iOS dan Android terpisah menggandakan biaya dan waktu.",
+        "solution": "Saya membangun aplikasi mobile cross-platform dengan Flutter yang berjalan native di kedua platform dari satu codebase.",
+        "benefit": "Satu pengembangan, dua platform. Performa native dengan delivery lebih cepat dan biaya lebih rendah.",
+        "technologies": ["Flutter", "Firebase", "REST API"]
+      },
+      {
+        "id": "automation",
+        "title": "Otomasi & Integrasi",
+        "problem": "Tugas berulang menghabiskan waktu tim Anda. Sistem tidak saling terhubung, menciptakan bottleneck input data manual.",
+        "solution": "Saya membangun workflow otomatis — bot WhatsApp untuk notifikasi, integrasi API antar sistem, dan proses terjadwal.",
+        "benefit": "Lebih sedikit pekerjaan berulang, lebih sedikit human error, dan sistem yang berkomunikasi dengan mulus.",
+        "technologies": ["Node.js", "Firebase", "WhatsApp API", "REST API"]
+      }
+    ],
+    "processLabel": "Proses Saya",
+    "processTitle": "Dari Masalah ke Produksi",
+    "processSteps": [
+      {
+        "step": "01",
+        "title": "Discovery",
+        "description": "Mendalami proses bisnis, pain point, dan tujuan Anda. Saya memetakan kebutuhan sebelum menulis satu baris kode pun."
+      },
+      {
+        "step": "02",
+        "title": "Arsitektur",
+        "description": "Merancang struktur sistem, data model, dan alur pengguna. Anda review dan approve sebelum pengembangan dimulai."
+      },
+      {
+        "step": "03",
+        "title": "Pengembangan",
+        "description": "Pengembangan iteratif bertahap. Demo rutin, feedback loop, dan penyesuaian untuk memastikan keselarasan."
+      },
+      {
+        "step": "04",
+        "title": "Launch & Support",
+        "description": "Deployment, testing, dan serah terima dengan dokumentasi. Dukungan berkelanjutan dan penambahan fitur sesuai kebutuhan."
+      }
+    ],
+    "techLabel": "Teknologi",
+    "techTitle": "Dibangun dengan Tools Terbukti"
+  },
+  "techStack": {
+    "label": "Tech Stack",
+    "title": "Tools yang Saya Gunakan",
+    "description": "Saya memilih tools yang tepat untuk pekerjaan — bukan yang paling tren. Inilah yang saya gunakan untuk membangun sistem yang andal dan siap produksi."
+  },
+  "projects": {
+    "label": "Karya Unggulan",
+    "title": "Proyek yang Memberikan Dampak",
+    "description": "Sistem nyata yang menyelesaikan masalah nyata. Setiap proyek dimulai dari tantangan bisnis dan berakhir dengan peningkatan yang terukur.",
+    "viewAll": "Lihat Semua Proyek",
+    "pageTitle": "Sistem yang Menyelesaikan Masalah Nyata",
+    "pageDescription": "Setiap proyek dimulai dari tantangan bisnis. Berikut cara saya mengubah kompleksitas menjadi sistem yang bersih dan bekerja.",
+    "filterAll": "Semua",
+    "noProjects": "Belum ada proyek di kategori ini.",
+    "challengeLabel": "Tantangan",
+    "solutionLabel": "Solusi",
+    "impactLabel": "Dampak",
+    "items": [
+      {
+        "id": "student-admission",
+        "title": "Sistem Penerimaan Siswa",
+        "category": "Pendidikan",
+        "image": "/images/projects/student-admission.jpg",
+        "problem": "Sebuah sekolah swasta mengelola penerimaan siswa melalui formulir kertas dan spreadsheet, menyebabkan dokumen hilang, data duplikat, dan keterlambatan pemrosesan berminggu-minggu saat musim pendaftaran.",
+        "solution": "Membangun platform penerimaan digital end-to-end dengan pendaftaran online, upload dokumen, screening otomatis, penjadwalan wawancara, dan pelacakan status real-time untuk orang tua.",
+        "impact": "Waktu pemrosesan penerimaan berkurang 70%. Formulir kertas dihilangkan sepenuhnya. Orang tua mendapat update instan, dan staf bisa mengelola 3x lebih banyak aplikasi per musim.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"],
+        "featured": true
+      },
+      {
+        "id": "boarding-finance",
+        "title": "Sistem Keuangan Pesantren",
+        "category": "Keuangan & Pendidikan",
+        "image": "/images/projects/boarding-finance.jpg",
+        "problem": "Sebuah pesantren dengan 500+ santri melacak pembayaran SPP, pengeluaran operasional, dan laporan keuangan menggunakan Excel — menyebabkan error rekonsiliasi dan keterlambatan pelaporan ke stakeholder.",
+        "solution": "Mengembangkan sistem keuangan komprehensif dengan penagihan otomatis, pelacakan pembayaran, pelaporan multi-periode, jurnal, dan akses berbasis peran untuk staf keuangan dan manajemen.",
+        "impact": "Closing keuangan bulanan berkurang dari 5 hari menjadi 1 hari. Pelacakan pembayaran meningkat 90%. Manajemen mendapat dashboard keuangan real-time.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "educational-erp",
+        "title": "Platform ERP Pendidikan",
+        "category": "Pendidikan",
+        "image": "/images/projects/educational-erp.jpg",
+        "problem": "Sebuah yayasan pendidikan yang mengelola beberapa sekolah tidak memiliki sistem terpadu — setiap sekolah menggunakan tools berbeda untuk akademik, HR, keuangan, dan manajemen siswa.",
+        "solution": "Membangun platform ERP multi-tenant yang mencakup manajemen siswa, catatan akademik, absensi, HR, payroll, inventori, dan pelaporan keuangan — semua dalam satu sistem terpadu.",
+        "impact": "Menyatukan 4 sekolah dalam satu platform. Beban administratif berkurang 60%. Pimpinan yayasan mendapat pelaporan dan analitik lintas sekolah.",
+        "technologies": ["Nuxt.js", "Node.js", "PostgreSQL", "Prisma", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "custom-cms",
+        "title": "CMS Custom dengan Page Builder",
+        "category": "Manajemen Konten",
+        "image": "/images/projects/custom-cms.jpg",
+        "problem": "Sebuah organisasi yang berkembang perlu sering update website tapi bergantung pada developer untuk setiap perubahan kecil, menciptakan bottleneck dan konten yang usang.",
+        "solution": "Membuat CMS custom dengan page builder visual, library komponen reusable, manajemen media, tools SEO, dan workflow publishing berbasis peran.",
+        "impact": "Tim marketing menjadi sepenuhnya mandiri — mempublikasi halaman baru dalam hitungan menit, bukan hari. Ketergantungan pada developer untuk update konten turun menjadi nol.",
+        "technologies": ["Next.js", "Vue.js", "Node.js", "PostgreSQL", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "hr-attendance-system",
+        "title": "Manajemen HR & Absensi",
+        "category": "Sumber Daya Manusia",
+        "image": "/images/projects/hr-attendance.jpg",
+        "problem": "Sebuah perusahaan dengan 200+ karyawan melacak absensi melalui daftar hadir manual dan menghitung payroll di spreadsheet, menyebabkan sengketa dan error payroll.",
+        "solution": "Membangun platform HR terintegrasi dengan absensi digital (QR/GPS), manajemen cuti, perhitungan lembur, pemrosesan payroll, dan self-service karyawan.",
+        "impact": "Waktu pemrosesan payroll berkurang 80%. Sengketa absensi berkurang hampir nol. Karyawan mendapat transparansi melalui portal self-service.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Firebase"],
+        "featured": false
+      },
+      {
+        "id": "whatsapp-automation",
+        "title": "Bot Notifikasi WhatsApp",
+        "category": "Otomasi",
+        "image": "/images/projects/whatsapp-bot.jpg",
+        "problem": "Sebuah sekolah mengirim pengingat pembayaran, pengumuman, dan notifikasi rapor ke orang tua secara manual melalui pesan individu — menghabiskan berjam-jam waktu staf setiap hari.",
+        "solution": "Mengembangkan bot WhatsApp otomatis yang terintegrasi dengan sistem sekolah, mengirim notifikasi template untuk pembayaran, absensi, nilai, dan pengumuman.",
+        "impact": "Staf menghemat 3+ jam per hari untuk komunikasi. Efektivitas pengingat pembayaran meningkat 45%. Orang tua menghargai update yang instan dan konsisten.",
+        "technologies": ["Node.js", "WhatsApp API", "Firebase", "REST API"],
+        "featured": false
+      }
+    ]
+  },
+  "workStyle": {
+    "label": "Cara Saya Bekerja",
+    "title": "Proses yang Dibangun Atas Kepercayaan & Transparansi",
+    "description": "Saya percaya software yang hebat dibangun melalui komunikasi yang jujur, proses yang terstruktur, dan komitmen terhadap kualitas.",
+    "steps": [
+      {
+        "title": "Komunikasi yang Jelas",
+        "description": "Setiap proyek dimulai dengan pemahaman mendalam. Saya mengajukan pertanyaan yang tepat, mendokumentasikan kebutuhan dengan jelas, dan memberi update di setiap tahap — tanpa jargon teknis, hanya laporan progres yang jujur."
+      },
+      {
+        "title": "Pengembangan Terstruktur",
+        "description": "Saya mengikuti pola arsitektur bersih, menulis kode yang terdokumentasi dengan baik, dan menggunakan version control secara ketat. Setiap keputusan dibuat dengan sengaja dan bisa ditelusuri."
+      },
+      {
+        "title": "Delivery Iteratif",
+        "description": "Saya membangun secara bertahap — dimulai dari fungsionalitas inti dan iterasi berdasarkan feedback Anda. Anda melihat progres sejak awal dan sering, bukan hanya di akhir."
+      },
+      {
+        "title": "Kemitraan Jangka Panjang",
+        "description": "Tujuan saya bukan hanya deliver lalu hilang. Saya membangun sistem yang bangga saya maintenance. Dukungan pasca-launch, optimasi, dan penambahan fitur adalah bagian dari hubungan kerja."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mencari developer yang andal untuk",
+    "titleHighlight": "sistem",
+    "titleEnd": " Anda?",
+    "description": "Mari diskusikan proyek Anda. Baik itu sistem baru dari nol, memperbaiki yang sudah ada, atau dukungan pengembangan berkelanjutan — saya siap membantu.",
+    "whatsapp": "Chat via WhatsApp",
+    "email": "Kirim Email",
+    "linkedin": "LinkedIn"
+  },
+  "contact": {
+    "label": "Hubungi Saya",
+    "title": "Mari Bangun Sesuatu yang",
+    "titleHighlight": "Bermakna",
+    "description": "Punya proyek di pikiran? Butuh developer yang andal untuk sistem Anda? Saya ingin mendengar tantangan Anda dan mengeksplorasi bagaimana saya bisa membantu.",
+    "reachOut": "Hubungi Melalui",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Cara tercepat menghubungi saya",
+    "whatsappAction": "Chat Sekarang",
+    "emailLabel": "Email",
+    "emailDesc": "Untuk diskusi detail",
+    "linkedinLabel": "LinkedIn",
+    "linkedinDesc": "Profil profesional",
+    "linkedinAction": "Connect",
+    "githubLabel": "GitHub",
+    "githubDesc": "Open source & kode",
+    "githubAction": "Lihat Profil",
+    "available": "Tersedia Saat Ini",
+    "responseTime": "Respon dalam 24 jam",
+    "remote": "Terbuka untuk klien remote & global",
+    "idealTitle": "Ideal Jika Anda...",
+    "idealClients": [
+      "Organisasi yang butuh sistem internal custom",
+      "Sekolah & yayasan yang butuh transformasi digital",
+      "Bisnis yang mengganti spreadsheet dengan software nyata",
+      "Startup yang butuh MVP dibangun dengan benar",
+      "Tim yang mencari developer jangka panjang yang andal"
+    ],
+    "nextTitle": "Apa yang Terjadi Selanjutnya?",
+    "nextSteps": [
+      "Anda menghubungi saya dengan deskripsi singkat tentang proyek atau tantangan Anda.",
+      "Kita jadwalkan konsultasi gratis untuk mendiskusikan scope, timeline, dan pendekatan.",
+      "Saya menyiapkan proposal dengan deliverable, timeline, dan investasi yang jelas.",
+      "Setelah sepakat, kita mulai — dengan milestone terstruktur dan update rutin."
+    ]
+  },
+  "footer": {
+    "tagline": "Membangun sistem scalable yang menyederhanakan operasional dan mengembangkan organisasi.",
+    "quickLinks": "Tautan Cepat",
+    "connect": "Hubungi",
+    "rights": "Hak cipta dilindungi.",
+    "madeWith": "Dirancang & dibangun dengan sepenuh hati."
+  },
+  "notFound": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "goHome": "Ke Beranda"
+  }
+}
+

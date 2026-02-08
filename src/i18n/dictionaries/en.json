@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "title": "Noel — Full-Stack Web & Mobile Developer",
+    "description": "I build scalable web & mobile systems that simplify operations and grow organizations. Specializing in ERP, CMS, Finance Systems, and Custom Web Applications.",
+    "projectsTitle": "Projects",
+    "projectsDescription": "Explore real case studies of web and mobile systems I've built — from student admission platforms to financial systems and custom CMS solutions.",
+    "servicesTitle": "Services",
+    "servicesDescription": "Custom web applications, ERP systems, CMS platforms, financial systems, HR & payroll, mobile apps, and automation solutions.",
+    "contactTitle": "Contact",
+    "contactDescription": "Get in touch to discuss your project. Available for remote work, freelance projects, and long-term development partnerships."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "workWithMe": "Work With Me"
+  },
+  "hero": {
+    "badge": "Available for remote work & projects",
+    "headline": "I build scalable systems that",
+    "headlineHighlight": "simplify operations",
+    "headlineEnd": "and grow organizations.",
+    "subheadline": "Full-Stack Web & Mobile Developer with 5+ years of experience turning complex business needs into clean, maintainable digital solutions.",
+    "ctaPrimary": "Work With Me",
+    "ctaSecondary": "View Projects",
+    "specializations": ["ERP Systems", "CMS & Page Builder", "Finance & Accounting", "Attendance & HR", "Automation & Bots"]
+  },
+  "about": {
+    "label": "About Me",
+    "title": "Turning Business Complexity Into Clean Systems",
+    "paragraphs": [
+      "Over the past 5+ years, I've been helping organizations — from schools and foundations to finance departments and growing businesses — replace manual processes with reliable digital systems.",
+      "My work spans across education, finance, HR, and internal operations. I've built student admission systems, boarding school financial platforms, multi-school ERP solutions, custom CMS platforms, and automated notification bots.",
+      "What sets me apart isn't just technical skill — it's the ability to sit with stakeholders, understand their pain points, and translate messy business logic into structured, maintainable software. I don't just build features; I solve operational problems."
+    ],
+    "traits": [
+      {
+        "title": "Business-First Thinking",
+        "description": "I don't just write code — I understand the problem. Every feature is designed around the actual workflow, not assumptions."
+      },
+      {
+        "title": "Structured & Scalable",
+        "description": "Clean architecture, proper documentation, and maintainable code. Built to last and easy for teams to work with."
+      },
+      {
+        "title": "Long-Term Mindset",
+        "description": "I build systems meant to evolve. Modular design, clear data models, and thoughtful technical decisions for future growth."
+      },
+      {
+        "title": "Reliable & Communicative",
+        "description": "Consistent updates, transparent timelines, and honest about constraints. No surprises, just steady progress."
+      }
+    ]
+  },
+  "services": {
+    "label": "Services",
+    "title": "Solutions, Not Just Code",
+    "description": "Every service starts with understanding your problem. I deliver working systems that solve real operational challenges.",
+    "items": [
+      {
+        "id": "web-apps",
+        "title": "Custom Web Applications",
+        "problem": "Your business relies on generic tools that don't fit your actual workflow, slowing down operations and creating data silos.",
+        "solution": "I build tailored web applications designed around your specific processes — from dashboards to complex multi-role platforms.",
+        "benefit": "A system that fits your team like a glove, reduces manual work, and scales with your growth.",
+        "technologies": ["Next.js", "Nuxt", "Vue", "React", "Node.js"]
+      },
+      {
+        "id": "erp-systems",
+        "title": "ERP & Internal Systems",
+        "problem": "Managing operations across departments with spreadsheets and disconnected tools leads to errors, delays, and zero visibility.",
+        "solution": "I develop integrated ERP systems that connect departments — from inventory to procurement, reporting to user management.",
+        "benefit": "One unified system that gives management real-time visibility and teams a streamlined workflow.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"]
+      },
+      {
+        "id": "cms-builder",
+        "title": "CMS with Page Builder",
+        "problem": "Your marketing team can't update the website without bothering developers, causing bottlenecks and outdated content.",
+        "solution": "I build custom CMS platforms with drag-and-drop page builders, giving your team full control over content and layout.",
+        "benefit": "Marketing autonomy. Update pages, create landing pages, and manage content — no code required.",
+        "technologies": ["Next.js", "Vue", "Firebase", "REST API"]
+      },
+      {
+        "id": "finance-systems",
+        "title": "Financial & Accounting Systems",
+        "problem": "Financial reporting is manual, error-prone, and takes days. Reconciliation between systems is a nightmare.",
+        "solution": "I build financial systems with automated calculations, multi-period reporting, journal entries, and audit trails.",
+        "benefit": "Accurate financials on demand. Less manual work, fewer errors, and reports ready when you need them.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"]
+      },
+      {
+        "id": "hr-attendance",
+        "title": "Attendance, HR & Payroll Systems",
+        "problem": "Tracking attendance, managing leave, and calculating payroll manually is time-consuming and error-prone.",
+        "solution": "I develop HR systems with attendance tracking, leave management, payroll calculation, and employee self-service portals.",
+        "benefit": "Automated HR processes that save hours of admin work every pay period and keep employees informed.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Firebase"]
+      },
+      {
+        "id": "mobile-apps",
+        "title": "Mobile Applications",
+        "problem": "Your users need access on the go, but building separate iOS and Android apps doubles your cost and timeline.",
+        "solution": "I build cross-platform mobile apps with Flutter that run natively on both platforms from a single codebase.",
+        "benefit": "One development effort, two platforms. Native performance with faster delivery and lower cost.",
+        "technologies": ["Flutter", "Firebase", "REST API"]
+      },
+      {
+        "id": "automation",
+        "title": "Automation & Integration",
+        "problem": "Repetitive tasks eat up your team's time. Systems don't talk to each other, creating manual data entry bottlenecks.",
+        "solution": "I build automated workflows — WhatsApp bots for notifications, API integrations between systems, and scheduled processes.",
+        "benefit": "Less repetitive work, fewer human errors, and systems that communicate seamlessly.",
+        "technologies": ["Node.js", "Firebase", "WhatsApp API", "REST API"]
+      }
+    ],
+    "processLabel": "My Process",
+    "processTitle": "From Problem to Production",
+    "processSteps": [
+      {
+        "step": "01",
+        "title": "Discovery",
+        "description": "Deep dive into your business processes, pain points, and goals. I map out requirements before writing a single line of code."
+      },
+      {
+        "step": "02",
+        "title": "Architecture",
+        "description": "Design the system structure, data models, and user flows. You review and approve before development begins."
+      },
+      {
+        "step": "03",
+        "title": "Development",
+        "description": "Iterative development in phases. Regular demos, feedback loops, and adjustments to ensure alignment."
+      },
+      {
+        "step": "04",
+        "title": "Launch & Support",
+        "description": "Deployment, testing, and handover with documentation. Ongoing support and feature additions as needed."
+      }
+    ],
+    "techLabel": "Technology",
+    "techTitle": "Built With Proven Tools"
+  },
+  "techStack": {
+    "label": "Tech Stack",
+    "title": "Tools I Work With",
+    "description": "I choose the right tool for the job — not the trendiest one. Here's what I use to build reliable, production-ready systems."
+  },
+  "projects": {
+    "label": "Featured Work",
+    "title": "Projects That Made an Impact",
+    "description": "Real systems solving real problems. Each project started with a business challenge and ended with measurable improvement.",
+    "viewAll": "View All Projects",
+    "pageTitle": "Systems That Solve Real Problems",
+    "pageDescription": "Each project started with a business challenge. Here's how I turned complexity into clean, working systems.",
+    "filterAll": "All",
+    "noProjects": "No projects in this category yet.",
+    "challengeLabel": "Challenge",
+    "solutionLabel": "Solution",
+    "impactLabel": "Impact",
+    "items": [
+      {
+        "id": "student-admission",
+        "title": "Student Admission System",
+        "category": "Education",
+        "image": "/images/projects/student-admission.jpg",
+        "problem": "A private school managed student admissions through paper forms and spreadsheets, leading to lost documents, duplicate entries, and weeks of processing delays during enrollment season.",
+        "solution": "Built an end-to-end digital admission platform with online registration, document uploads, automated screening, interview scheduling, and real-time status tracking for parents.",
+        "impact": "Reduced admission processing time by 70%. Eliminated paper forms entirely. Parents received instant updates, and staff could manage 3x more applications per season.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma"],
+        "featured": true
+      },
+      {
+        "id": "boarding-finance",
+        "title": "Boarding School Finance System",
+        "category": "Finance & Education",
+        "image": "/images/projects/boarding-finance.jpg",
+        "problem": "A boarding school with 500+ students tracked tuition payments, operational expenses, and financial reports using Excel — causing reconciliation errors and delayed reporting to stakeholders.",
+        "solution": "Developed a comprehensive financial system with automated billing, payment tracking, multi-period reporting, journal entries, and role-based access for finance staff and management.",
+        "impact": "Monthly financial closing reduced from 5 days to 1 day. Payment collection tracking improved by 90%. Management gained real-time financial dashboards.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Prisma", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "educational-erp",
+        "title": "Educational ERP Platform",
+        "category": "Education",
+        "image": "/images/projects/educational-erp.jpg",
+        "problem": "An educational foundation running multiple schools had no unified system — each school used different tools for academics, HR, finance, and student management.",
+        "solution": "Built a multi-tenant ERP platform covering student management, academic records, attendance, HR, payroll, inventory, and financial reporting — all in one unified system.",
+        "impact": "Unified 4 schools under one platform. Reduced administrative overhead by 60%. Foundation leadership gained cross-school reporting and analytics.",
+        "technologies": ["Nuxt.js", "Node.js", "PostgreSQL", "Prisma", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "custom-cms",
+        "title": "Custom CMS with Page Builder",
+        "category": "Content Management",
+        "image": "/images/projects/custom-cms.jpg",
+        "problem": "A growing organization needed to frequently update their website but depended on developers for every small change, creating bottlenecks and outdated content.",
+        "solution": "Created a custom CMS with a visual page builder, reusable component library, media management, SEO tools, and role-based publishing workflows.",
+        "impact": "Marketing team became fully autonomous — publishing new pages in minutes instead of days. Developer dependency for content updates dropped to zero.",
+        "technologies": ["Next.js", "Vue.js", "Node.js", "PostgreSQL", "Firebase"],
+        "featured": true
+      },
+      {
+        "id": "hr-attendance-system",
+        "title": "HR & Attendance Management",
+        "category": "Human Resources",
+        "image": "/images/projects/hr-attendance.jpg",
+        "problem": "A company with 200+ employees tracked attendance through manual sign-in sheets and calculated payroll on spreadsheets, leading to disputes and payroll errors.",
+        "solution": "Built an integrated HR platform with digital attendance (QR/GPS), leave management, overtime calculation, payroll processing, and employee self-service.",
+        "impact": "Payroll processing time cut by 80%. Attendance disputes reduced to near-zero. Employees gained transparency through self-service portal.",
+        "technologies": ["Next.js", "Node.js", "PostgreSQL", "Firebase"],
+        "featured": false
+      },
+      {
+        "id": "whatsapp-automation",
+        "title": "WhatsApp Notification Bot",
+        "category": "Automation",
+        "image": "/images/projects/whatsapp-bot.jpg",
+        "problem": "A school manually sent payment reminders, announcements, and report notifications to parents via individual messages — consuming hours of staff time daily.",
+        "solution": "Developed an automated WhatsApp bot integrated with the school's existing systems, sending templated notifications for payments, attendance, grades, and announcements.",
+        "impact": "Staff saved 3+ hours daily on communication. Payment reminder effectiveness improved by 45%. Parents appreciated instant, consistent updates.",
+        "technologies": ["Node.js", "WhatsApp API", "Firebase", "REST API"],
+        "featured": false
+      }
+    ]
+  },
+  "workStyle": {
+    "label": "How I Work",
+    "title": "A Process Built on Trust & Transparency",
+    "description": "I believe great software is built through honest communication, structured processes, and a commitment to quality.",
+    "steps": [
+      {
+        "title": "Clear Communication",
+        "description": "Every project starts with deep understanding. I ask the right questions, document requirements clearly, and keep you updated at every stage — no technical jargon, just honest progress reports."
+      },
+      {
+        "title": "Structured Development",
+        "description": "I follow clean architecture patterns, write well-documented code, and use version control rigorously. Every decision is intentional and traceable."
+      },
+      {
+        "title": "Iterative Delivery",
+        "description": "I build in phases — starting with core functionality and iterating based on your feedback. You see progress early and often, not just at the end."
+      },
+      {
+        "title": "Long-Term Partnership",
+        "description": "My goal isn't just to deliver and disappear. I build systems I'm proud to maintain. Post-launch support, optimization, and feature additions are part of the relationship."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Looking for a reliable developer for your",
+    "titleHighlight": "system",
+    "description": "Let's discuss your project. Whether it's a new system from scratch, improving an existing one, or ongoing development support — I'm here to help.",
+    "whatsapp": "Chat on WhatsApp",
+    "email": "Send Email",
+    "linkedin": "LinkedIn"
+  },
+  "contact": {
+    "label": "Get In Touch",
+    "title": "Let's Build Something",
+    "titleHighlight": "Meaningful",
+    "description": "Have a project in mind? Need a reliable developer for your system? I'd love to hear about your challenges and explore how I can help.",
+    "reachOut": "Reach Out Through",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Fastest way to reach me",
+    "whatsappAction": "Chat Now",
+    "emailLabel": "Email",
+    "emailDesc": "For detailed discussions",
+    "linkedinLabel": "LinkedIn",
+    "linkedinDesc": "Professional profile",
+    "linkedinAction": "Connect",
+    "githubLabel": "GitHub",
+    "githubDesc": "Open source & code",
+    "githubAction": "View Profile",
+    "available": "Currently Available",
+    "responseTime": "Response within 24 hours",
+    "remote": "Open to remote & global clients",
+    "idealTitle": "Ideal If You're...",
+    "idealClients": [
+      "Organizations needing custom internal systems",
+      "Schools & foundations requiring digital transformation",
+      "Businesses replacing spreadsheets with real software",
+      "Startups needing an MVP built properly",
+      "Teams looking for a reliable long-term developer"
+    ],
+    "nextTitle": "What Happens Next?",
+    "nextSteps": [
+      "You reach out with a brief description of your project or challenge.",
+      "We schedule a free consultation call to discuss scope, timeline, and approach.",
+      "I prepare a proposal with clear deliverables, timeline, and investment.",
+      "Once aligned, we kick off — with structured milestones and regular updates."
+    ]
+  },
+  "footer": {
+    "tagline": "Building scalable systems that simplify operations and grow organizations.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "All rights reserved.",
+    "madeWith": "Designed & built with care."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "goHome": "Go Home"
+  }
+}
+
