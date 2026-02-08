@@ -19,7 +19,11 @@ export default function Footer({ locale, dict }: FooterProps) {
   ];
 
   return (
-    <footer className="border-t border-white/[0.06] bg-neutral-950">
+    <footer
+      className="border-t border-white/[0.06] bg-neutral-950"
+      role="contentinfo"
+      aria-label="Site footer"
+    >
       <div className="container-custom py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-8">
           {/* Brand */}
@@ -34,7 +38,7 @@ export default function Footer({ locale, dict }: FooterProps) {
           </div>
 
           {/* Quick Links */}
-          <div>
+          <nav aria-label="Footer navigation">
             <h4 className="text-sm font-semibold text-white mb-4">
               {dict.footer.quickLinks}
             </h4>
@@ -49,7 +53,7 @@ export default function Footer({ locale, dict }: FooterProps) {
                 </Link>
               ))}
             </div>
-          </div>
+          </nav>
 
           {/* Connect */}
           <div>
@@ -60,13 +64,14 @@ export default function Footer({ locale, dict }: FooterProps) {
               <a
                 href={SITE_CONFIG.links.whatsapp}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer me"
                 className="text-sm text-neutral-500 hover:text-primary-400 transition-colors"
               >
                 WhatsApp
               </a>
               <a
                 href={SITE_CONFIG.links.email}
+                rel="me"
                 className="text-sm text-neutral-500 hover:text-primary-400 transition-colors"
               >
                 Email
@@ -74,7 +79,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <a
                 href={SITE_CONFIG.links.linkedin}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer me"
                 className="text-sm text-neutral-500 hover:text-primary-400 transition-colors"
               >
                 LinkedIn
@@ -82,7 +87,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <a
                 href={SITE_CONFIG.links.github}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer me"
                 className="text-sm text-neutral-500 hover:text-primary-400 transition-colors"
               >
                 GitHub

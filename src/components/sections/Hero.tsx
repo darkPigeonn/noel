@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, ChevronDown, User } from "lucide-react";
+import { ArrowRight, ChevronDown } from "lucide-react";
 import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
 
@@ -126,25 +126,13 @@ export default function Hero({ dict, locale }: HeroProps) {
                   Ukuran yang disarankan: 400x400px atau lebih besar (persegi)
                 */}
                 <Image
-                  src="/images/profile/photo.jpg"
+                  src="/images/profile/me.png"
                   alt="Noel - Full-Stack Developer"
                   fill
                   className="object-cover"
                   priority
                   sizes="(max-width: 768px) 224px, (max-width: 1024px) 288px, 320px"
-                  onError={(e) => {
-                    // Hide the image if not found, show placeholder
-                    (e.target as HTMLImageElement).style.display = "none";
-                  }}
                 />
-                {/* Placeholder fallback (shown when no image) */}
-                <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary-950 to-neutral-900">
-                  <User
-                    size={80}
-                    className="text-primary-600/40"
-                    strokeWidth={1}
-                  />
-                </div>
               </div>
               {/* Decorative dots */}
               <div className="absolute -bottom-2 -right-2 w-6 h-6 rounded-full bg-primary-500 border-4 border-neutral-950" />

@@ -1,5 +1,6 @@
 import { type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
+import { getBreadcrumbJsonLd } from "@/lib/jsonLd";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Services from "@/components/sections/Services";
@@ -14,9 +15,21 @@ export default async function Home({
   params: { locale: Locale };
 }) {
   const dict = await getDictionary(params.locale);
+  const breadcrumbJsonLd = getBreadcrumbJsonLd(params.locale, [
+    {
+      name: params.locale === "id" ? "Beranda" : "Home",
+      href: `/${params.locale}`,
+    },
+  ]);
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbJsonLd),
+        }}
+      />
       <Hero dict={dict} locale={params.locale} />
       <About dict={dict} />
       <Services dict={dict} />
@@ -27,4 +40,3 @@ export default async function Home({
     </>
   );
 }
-
